@@ -3,7 +3,7 @@
 ## Project Overview
 Comprehensive geological and petrophysical analysis of the Melur Oil Field, an offshore anticline structure located 83 km from Terengganu, Malaysia. This project demonstrates end-to-end subsurface characterization from regional geology to detailed reservoir property modeling.
 
-**Author:** Sheikhdon Abdullahi  
+**Author:** Abdullahi sheikhdon 
 **Role:** Geologist & Petrophysicist  
 **Software:** Petrel 2017, Excel  
 **Duration:** 4 weeks  
@@ -238,9 +238,8 @@ Comprehensive geological and petrophysical analysis of the Melur Oil Field, an o
 ## Contact
 **Sheikhdon Abdullahi**  
 Petroleum Engineer | Reservoir Characterization Specialist  
-📧 [your.email@example.com]  
-💼 [LinkedIn Profile]  
-🌐 [Portfolio Website]
+📧 mohamedshekhdon@gmail.com
+💼 [https://www.linkedin.com/in/abdullahi-sheikhdon-pe-2a9572176/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By%2BSrr7EaSbqdYVHo4plU0w%3D%3D]  
 
 ---
 
